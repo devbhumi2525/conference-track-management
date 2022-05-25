@@ -1,0 +1,21 @@
+{
+  "name": "conference-track-management",
+  "version": "0.2.10",
+  "description": "Conference Track Management",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:devbhumi2525/conference-track-management.git"
+  },
+  "keywords": [
+    "Node.js",
+    "ConferenceTrackManagement",
+    "Javascript"
+  ],
+  "author": "Rajeev",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
